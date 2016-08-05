@@ -1,0 +1,6 @@
+C:\My Projects\Samples\Test\Test\bin\Debug\Test.exe.config
+C:\My Projects\Samples\Test\Test\bin\Debug\Test.exe
+C:\My Projects\Samples\Test\Test\bin\Debug\Test.pdb
+C:\My Projects\Samples\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\My Projects\Samples\Test\Test\obj\Debug\Test.exe
+C:\My Projects\Samples\Test\Test\obj\Debug\Test.pdb
